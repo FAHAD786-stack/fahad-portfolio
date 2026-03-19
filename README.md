@@ -115,3 +115,4 @@ serve public
 ---
 
 Built with: React (portfolio UI) · Node.js · Express.js · MongoDB · Mongoose · Nodemailer
+Deployed link -:https://fahad-portfolio-teal.vercel.app
